@@ -10,22 +10,6 @@ body{
     top:0;
     z-index: 99999;
 }
-#img{
-    height: 500px;
-    width: 500px;
-    margin-left: 500px;
- }
-#img1{
-    height: 500px;
-    width: 500px;
-    margin-left: 500px;
- }
-#img2{
-    height: 500px;
-    width: 500px;
-    margin-left: 500px;
- }
-
 .movie_head{
     font-size: 10px;
     padding: 6px 22px;
@@ -60,4 +44,16 @@ input{
 }
 .travel_mainDiv p{
     margin-left: 20px;
+}
+#map iframe{
+    width: 50%;
+    float: left;
+    padding-top: 5px;
+}
+#vedio{
+    height: 500px;
+    width: 100%;
+}
+#details{
+    
 }
